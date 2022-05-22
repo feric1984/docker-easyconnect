@@ -70,6 +70,8 @@ docker pull hagb/docker-easyconnect:TAG
 
 登录过程的一个 hack ([docker-root/usr/local/bin/start-sangfor.sh](docker-root/usr/local/bin/start-sangfor.sh))参考了这篇文章：<https://blog.51cto.com/13226459/2476193>。在此对该文作者表示感谢。
 
+我是转载 https://github.com/Hagb/docker-easyconnect 对大佬表示感谢
+
 ## 版权及许可证
 
 > Copyright © 2020 contributors
